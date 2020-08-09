@@ -1,0 +1,6 @@
+module Pods_ngout0001_ngout0001Tests {
+  umbrella header "Pods-ngout0001-ngout0001Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
