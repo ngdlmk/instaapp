@@ -1,7 +1,6 @@
 import user from './user'
-import verticalMenu from "./verticalMenu"
-
+import followers from "./followers";
 export default {
     user,
-    verticalMenu
+    followers
 }

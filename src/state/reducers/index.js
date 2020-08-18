@@ -1,7 +1,6 @@
 import userReducer from "./user"
-import verticalMenuReducer from './verticalMenu'
-
-export default ({user, verticalMenu}, action) => ({
+import followersReducer from "./followers";
+export default ({user, followers}, action) => ({
     user: userReducer(user, action),
-    verticalMenu: verticalMenuReducer(verticalMenu, action)
+    followers: followersReducer(followers, action)
 })

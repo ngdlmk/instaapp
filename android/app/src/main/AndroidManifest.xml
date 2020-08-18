@@ -10,7 +10,14 @@
       android:roundIcon="@mipmap/ic_launcher_round"
       android:allowBackup="false"
       android:theme="@style/AppTheme">
+      <meta-data
+        android:name="com.google.android.geo.API_KEY"
+        android:value="AIzaSyBP52Y88ndRAsn1PTsbs2sL0FKZ7nS2JqE"/>
+      
+      <!-- You will also only need to add this uses-library tag -->
+      <uses-library android:name="org.apache.http.legacy" android:required="false"/>
       <activity
+        android:theme="@style/SplashTheme"
         android:name=".MainActivity"
         android:label="@string/app_name"
         android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
@@ -21,6 +28,17 @@
             <category android:name="android.intent.category.LAUNCHER" />
         </intent-filter>
       </activity>
+        <activity
+            android:name=".SplashScreen"
+            android:label="@string/app_name"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+            android:launchMode="singleTask"
+            android:windowSoftInputMode="adjustResize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
       <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
     </application>
 
