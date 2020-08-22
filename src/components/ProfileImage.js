@@ -7,9 +7,9 @@ export const ProfileImage = ({
     return (
         <View style={{
             marginTop: 10,
-            width: 80,
-            height: 80,
-            borderRadius: 40,
+            width: 100,
+            height: 100,
+            borderRadius: 50,
             justifyContent: 'center',
             alignItems: 'center',
             elevation: 5
@@ -17,9 +17,9 @@ export const ProfileImage = ({
             <Image
                 source={{ uri: imgUrl }}
                 style={{
-                    width: 80,
-                    height: 80,
-                    borderRadius: 40,
+                    width: 100,
+                    height: 100,
+                    borderRadius: 50,
                 }}
                 resizeMode='cover'
             />

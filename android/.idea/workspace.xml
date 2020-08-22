@@ -7,73 +7,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9668fa14-5ac4-4842-8ddc-d4408d21b8f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_2_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_base_17_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_base_17_2_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_17_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_17_2_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_location_17_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_maps_17_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_places_placereport_17_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_17_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_17_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_maps_android_android_maps_utils_0_5_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/-1334106761/react-native-vector-icons.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/-775274574/react-native-community_checkbox.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/2033175796/react-native-maps.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ngout0001/SplashScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/background_splash.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/insta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../node_modules/clone/clone.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.2/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.2/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.2/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.2/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.2/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.2/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.2/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.2/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.2/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.2/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.2/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.2/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.2/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_fresco_fbcore_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_fresco_fbcore_2_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_fresco_fbcore_2_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_fresco_fbcore_2_2_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_react_react_native_0_63_2_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_react_react_native_0_63_2_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/-1334106761/react-native-vector-icons.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/-1334106761/react-native-vector-icons.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/-675568301/react-native-screens.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/-675568301/react-native-screens.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/-775274574/react-native-community_checkbox.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/-775274574/react-native-community_checkbox.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/1105858789/react-native-community_masked-view.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/1105858789/react-native-community_masked-view.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/1331902331/react-native-safe-area-context.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/1331902331/react-native-safe-area-context.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/1343057738/react-native-reanimated.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/1343057738/react-native-reanimated.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/1506851730/react-native-gesture-handler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/1506851730/react-native-gesture-handler.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/2033175796/react-native-maps.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/2033175796/react-native-maps.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/release/app-release.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/release/app-release.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/components/CardBase.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/components/CreditCard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/components/Header.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/components/StorieCard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/components/StorieSwipeList.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/components/VerticalMenu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/ProfileCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/ProfileCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/ProfileImage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/ProfileImage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/ProfileInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/ProfileInfo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/SideMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/SideMenu.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/components/WithTabs.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/WithTabs.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/routes/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/screens/Auth.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/screens/Details.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/screens/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/state/initial/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/state/initial/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/state/initial/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/state/initial/user.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/state/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/state/reducers/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +87,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RecentsManager">
@@ -216,10 +177,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="558" y="293" key="AndroidCreateResourceFileDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1597186012085" />
-    <state x="758" y="293" key="FileChooserDialogImpl" timestamp="1597185429777">
+    <state x="758" y="293" key="FileChooserDialogImpl" timestamp="1598045051345">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="758" y="293" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1597185429777" />
+    <state x="758" y="293" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1598045051345" />
     <state x="221" y="77" key="SettingsEditor" timestamp="1596031043357">
       <screen x="0" y="23" width="1440" height="830" />
     </state>

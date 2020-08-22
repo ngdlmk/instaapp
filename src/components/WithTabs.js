@@ -29,6 +29,12 @@ const WithTabs = ({children, selectedTab, color, navigation}) => {
                     onPress={() => navigation.navigate("Home")}
                 />
                 <Tab 
+                    isSelected={selectedTab === 'followers' ? true : false} 
+                    iconName="street-view"
+                    menuName="Follovers"
+                    onPress={() => navigation.navigate("Followers")}
+                />
+                <Tab 
                     isSelected={selectedTab === 'map' ? true : false} 
                     iconName="map-marked-alt"
                     menuName="Map"

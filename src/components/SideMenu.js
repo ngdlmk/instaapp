@@ -6,7 +6,7 @@ import { DrawerContentScrollView } from '@react-navigation/drawer';
 export const SideMenu = (props) => {
     const {user} = props
     return (
-        <DrawerContentScrollView>
+        <DrawerContentScrollView style={{backgroundColor: 'rgba(74,131,183,1)'}}>
             <ProfileCard 
                 imageUrl={user.imgUrl} 
                 username={user.username}

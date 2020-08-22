@@ -5,12 +5,18 @@ import { createDrawerNavigator, DrawerItem } from '@react-navigation/drawer';
 import { createStackNavigator } from '@react-navigation/stack';
 import Home from "../screens/Home"
 import Map from '../screens/Map'
+import Followers from "../screens/Followers.js";
 import BecomePremium from "../screens/BecomePremium";
 import RateUs from "../screens/RateUs";
 import ReportProblem from "../screens/ReportProblem";
 import WishAndComplaint from "../screens/WishAndComplaint";
 import TermOfUse from "../screens/TermOfUse";
 import PrivacyPolicy from "../screens/PrivacyPolicy";
+import Engelleyenler from "../screens/Engelleyenler";
+import GeriTakipEtmeyenler from "../screens/GeriTakipEtmeyenler";
+import GizliHikaye from "../screens/GizliHikaye";
+import Stalklayanlar from "../screens/Stalklayanlar";
+import TakibiBirakanlar from "../screens/TakibiBirakanlar";
 import { SideMenu } from "../components/SideMenu";
 import { getState } from "../state/AppContext";
 const Drawer = createDrawerNavigator();
@@ -100,6 +106,41 @@ const RightMenu = () => {
                     headerShown: false,
                 }}
             />
+            <Stack.Screen
+                name="Engelleyenler"
+                component={Engelleyenler}
+                options={{
+                    headerShown: false,
+                }}
+            />
+            <Stack.Screen
+                name="GeriTakipEtmeyenler"
+                component={GeriTakipEtmeyenler}
+                options={{
+                    headerShown: false,
+                }}
+            />
+            <Stack.Screen
+                name="GizliHikaye"
+                component={GizliHikaye}
+                options={{
+                    headerShown: false,
+                }}
+            />
+            <Stack.Screen
+                name="Stalklayanlar"
+                component={Stalklayanlar}
+                options={{
+                    headerShown: false,
+                }}
+            />
+            <Stack.Screen
+                name="TakibiBirakanlar"
+                component={TakibiBirakanlar}
+                options={{
+                    headerShown: false,
+                }}
+            />
         </Stack.Navigator>
     )
 }
@@ -113,6 +154,8 @@ const Root = () => {
                     menuItems.map(item => {
                         return (
                             <DrawerItem
+                                inactiveTintColor="white"
+                                style={{borderBottomColor: 'rgba(221,221,221,0.2)', borderBottomWidth: 1}}
                                 key={item.id}
                                 onPress={() => props.navigation.navigate(item.route)}
                                 label={item.label}
@@ -130,6 +173,10 @@ const Root = () => {
                 <Drawer.Screen
                     name="RightMenu"
                     component={RightMenu}
+                />
+                <Drawer.Screen
+                    name="Followers"
+                    component={Followers}
                 />
                 <Drawer.Screen
                     name="Map"

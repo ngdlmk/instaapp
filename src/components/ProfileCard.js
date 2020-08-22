@@ -2,12 +2,19 @@ import React from "react"
 import { View, Text } from "react-native"
 import { ProfileImage } from "./ProfileImage";
 
+const colors = {
+    strongColor: 'rgba(74,131,183,1)',
+    lightColor: 'rgba(74,131,183,0.4)',
+    textStrong: "white",
+    textLight: "#f3ffff"
+}
+
 export const ProfileCard = ({ imageUrl, username="Miranda Kerr", fullname="Miranda" }) => {
     return (
         <View style={{
             width: "100%",
             paddingVertical: 15,
-            backgroundColor: 'white',
+            backgroundColor: colors.strongColor,
             justifyContent: 'center',
             alignItems: 'center'
         }}>
@@ -20,7 +27,7 @@ export const ProfileCard = ({ imageUrl, username="Miranda Kerr", fullname="Miran
             }}>
                 <Text style={{
                     fontSize: 18,
-                    color: 'black',
+                    color: colors.textStrong,
                     lineHeight: 18,
                     paddingVertical: 6,
                     fontWeight: 'bold',
@@ -32,7 +39,7 @@ export const ProfileCard = ({ imageUrl, username="Miranda Kerr", fullname="Miran
                 <Text
                     style={{
                         fontSize: 14,
-                        color: '#979EAD',
+                        color: colors.textLight,
                         lineHeight: 14,
                         fontWeight: '400',
                         textAlign: 'center'
